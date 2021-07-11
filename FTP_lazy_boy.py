@@ -10,7 +10,7 @@ doclib= '''
 Usage: ./ftp_lazy_boy.py [options]\n
 Options: -i, --interface [hostname/ip] | Interface\n
          -h, --help [help] | print help\n
-Example: ./ftp_lazy_boy.py -i 127.0.0.1 -u ./userlist.txt -p ./wordlist.txt -t 50
+Example: ./ftp_lazy_boy.py -i 127.0.0.1
 '''
 
 def help():
